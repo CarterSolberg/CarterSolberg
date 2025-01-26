@@ -1,16 +1,21 @@
-## Hi there 👋
+# <Carter Solberg>
 
-<!--
-**CarterSolberg/CarterSolberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Carter Solberg, a student at Brigham Young University-Idaho interested in all things programming. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning about Rust and multithreading
+- My goals are to graduate soon 🚀
+- Ask me about any of my projects
+
+## Technologies and Tools
+
+- Proficient in: JavaScript, Typescript, HTML / CSS, React, Python, C#
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/cartersolberg/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
